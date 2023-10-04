@@ -1,0 +1,18 @@
+{
+  "name": "simple-hasher",
+  "version": "1.0.2",
+  "description": "Hasher is a user-friendly package,using this we can hash any file or any text by invoking a single method called hash()",
+  "main": "hasher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hasher",
+    "hashing",
+    "security",
+    "password",
+    "hashing"
+  ],
+  "author": "vskandhan",
+  "license": "ISC"
+}
