@@ -11,7 +11,7 @@ let stringHasher=(data)=>{
 let fileHasher=(data)=>{
     try{
     let hash=crypto.createHash('sha512')
-    let fileData=fs.readFileSync(data)
+    let fileData=fs.readFileSync(data).toString()
     hash.update(fileData)
     return hash.digest('hex')
     }
