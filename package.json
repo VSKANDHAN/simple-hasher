@@ -1,6 +1,6 @@
 {
   "name": "simple-hasher",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Hasher is a user-friendly package,using this we can hash any file or any text by invoking a single method called hash()",
   "main": "simple-hasher.js",
   "scripts": {
